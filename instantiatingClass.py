@@ -1,3 +1,5 @@
+from productClass import Product
+
 product = Product('Camisa', 90.00, 10)
 
 print(product.name)
