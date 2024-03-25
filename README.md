@@ -12,7 +12,7 @@ Pessoa:
 - Propriedades: nome, sobrenome, idade, gênero.
 - Métodos: comer, dormir, pensar, trabalhar.
   
-<br><br><br><br><br><br><br><br><br><br>
+<br><br>
 
 > Objetos em programação são uma forma de representar coisas ou conceitos no contexto de um programa.
 
