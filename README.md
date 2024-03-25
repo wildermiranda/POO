@@ -11,8 +11,7 @@ Conta bancária:
 Pessoa:
 - Propriedades: nome, sobrenome, idade, gênero.
 - Métodos: comer, dormir, pensar, trabalhar.
-
-
+<br><br>
 > Objetos em programação são uma forma de representar coisas ou conceitos no contexto de um programa.
 
 > Permitem a criação de um código minimalista a partir de módulos reutilizáveis.
